@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "An API Rest with node for a blog site",
   "main": "index.js",
+  "repository": "https://github.com/vcrolack/rolackdev-blog-api",
   "scripts": {
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
